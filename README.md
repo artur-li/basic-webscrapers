@@ -1,4 +1,4 @@
-# first-webscrape
+# basic-webscrapers
 
 scraping process:
 - get info (request/response)
