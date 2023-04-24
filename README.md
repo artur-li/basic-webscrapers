@@ -1,5 +1,6 @@
 # first-webscrape
 
+scraping process:
 - get info (request/response)
 - read info (target content)
 - formulate info (tabular form)
@@ -8,6 +9,6 @@
 
 - scrapes over a single subpage
 
-##2.py
+## 2.py
 
 - scrapes over multiple subpages
