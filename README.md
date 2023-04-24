@@ -12,3 +12,7 @@ scraping process:
 ## 2.py
 
 - scrapes over multiple subpages (page=http://quotes.toscrape.com/)
+
+## 3.py
+
+- simple login using http request 
